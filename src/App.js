@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       Bunk Bear
+       Bunk Bear is it's name
       
       </header>
     </div>
